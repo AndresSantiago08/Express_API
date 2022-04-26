@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "La descripción de los pasos para la realización de este ejemplo lo puede encontrar en:   \r [Prácticas de Launch X - creada por Carlo Gilmar](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3/7_express_api.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresSantiago08/Express_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresSantiago08/Express_API/issues"
+  },
+  "homepage": "https://github.com/AndresSantiago08/Express_API#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
